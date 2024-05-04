@@ -1,5 +1,16 @@
 Automation Testing
 
+**Tools And Technologies Used**
+Programming Language : Java
+
+Test Framework : Selenium,TestNG
+
+Build : Maven
+
+IDE :IntelliJ IDEA
+
+Version Control : GitHub
+
 URL : https://www.saucedemo.com/
 
 Scenario
